@@ -1,0 +1,51 @@
+.main {
+  border: 2px solid black;
+  margin: auto;
+  background-color: orange;
+  background-blend-mode: lighten;
+}
+.sign {
+  width: 200px;
+  height: 180px;
+  padding: 30px;
+  margin: auto;
+  margin-bottom: 220px;
+  margin-top: 8px;
+}
+.fsign {
+  margin: auto;
+}
+.ssign {
+  color: black;
+  padding: 20px;
+}
+.lable {
+  margin: auto;
+  color: black;
+  padding: 4px;
+}
+
+.for {
+  width: 200px;
+  height: 34px;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-radius: 4rem;
+  padding-left: 4px;
+  background-color: white;
+  color: black;
+}
+.butnn {
+  width: 80px;
+  height: 26px;
+  border: 2px solid grey;
+  color: white;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2.5rem;
+  margin-left: 30px;
+  margin-top: 10px;
+}
